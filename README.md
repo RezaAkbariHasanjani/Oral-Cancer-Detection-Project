@@ -161,4 +161,6 @@ The ensemble estimator order is SVM, XGBoost, MLP and weights are `[2, 1, 1]`. S
 
 Recommended next steps: audit duplicates and skipped files; split at patient level where patient IDs exist; use an independent external test cohort; tune the operating threshold only on validation data; report sensitivity/specificity, confusion matrices, confidence intervals and calibration; test across devices/lighting/populations; add clinician supervision and explicit safety messaging.
 
+## Author
 
+Dr.Reza Akbari-Hasanjani
